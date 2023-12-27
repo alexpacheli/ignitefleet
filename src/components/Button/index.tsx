@@ -1,4 +1,4 @@
-import { TouchableOpacityProps } from 'react-native';
+import { ActivityIndicator, TouchableOpacityProps } from 'react-native';
 
 import { Container, Loading, Title } from './styles';
 
